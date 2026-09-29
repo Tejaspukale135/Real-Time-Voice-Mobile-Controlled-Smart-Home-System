@@ -7,8 +7,8 @@
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "Tejas";
-char pass[] = "Tejas135";
+char ssid[] = "wifi_name";
+char pass[] = "Wifi_password";
 
 #define WHITE_LIGHT 23
 #define FAN         22
