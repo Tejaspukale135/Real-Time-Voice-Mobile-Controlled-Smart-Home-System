@@ -1,0 +1,18 @@
+# Arduino IDE
+*.ino.cpp
+*.elf
+*.hex
+*.bin
+*.map
+
+# Build/output files
+build/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
